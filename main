@@ -1,0 +1,24 @@
+local safe = game.Players.PLAYERNAMEHERE.Backpack:GetChildren())
+local lol = game.Players.PLAYERNAMEHERE.Backpack:GetChildren())
+local bruh = game.Players.PLAYERNAMEHERE.Backpack:GetChildren())
+local dang = game.Players.PLAYERNAMEHERE.Backpack:GetChildren())
+local dog = game.Players.PLAYERNAMEHERE.Backpack:GetChildren())
+local har = game.Players.PLAYERNAMEHERE.Backpack:GetChildren())
+local sa = game.Players.PLAYERNAMEHERE.Backpack:GetChildren())
+local sol = game.Players.PLAYERNAMEHERE.Backpack:GetChildren())
+local sl2 = game.Players.PLAYERNAMEHERE.Backpack:GetChildren())
+local fr = game.Players.PLAYERNAMEHERE.Backpack:GetChildren())
+print(safe)
+print(lol)
+print(bruh)
+print(dang)
+print(dog)
+print(har)
+print(sa)
+print(sol)
+print(sl2)
+print(fr)
+
+--PUT THE PLAYERS INVENTORY YOU WANT TO VIEW IN, REPLACE IT WITH "PLAYERNAMEHERE"
+-- NOW U CAN PUT THIS SCRIPT IN YOUR EXECUTOR AND EXECUTE THEN PRESS F9 ON YOUR KEYBOARD AND UNTICK "INFORMATION", "WARNING" AND "ERROR"
+--THEN IT SHOULD PRINT ALL THE GUNS IN THEIR INVENTORY
